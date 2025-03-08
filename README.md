@@ -5,6 +5,11 @@ The sentiment analysis project leverages advanced data processing methodologies 
 ## Note
 A sentiment analysis project made by me and my classmates
 
+## DataSet Download
+The Dataset is downloaded from Kaggle, to train my code.
+Dataset Downloadable Link:- https://www.kaggle.com/datasets/kazanova/sentiment140
+
+
 ## Some Description:
 
 Introduction Sentiment analysis is a natural language processing (NLP) technique used to determine the emotional tone behind a body of text. It finds widespread use in applications such as customer review analysis, social media monitoring, and opinion mining. The objective of this project is to develop an interactive web-based application using machine learning that can classify user input into positive or negative sentiment. The application is built using Streamlit, a Python-based framework for creating interactive web apps. The underlying machine learning model is a Naive Bayes classifier, and the text data is vectorized using TF-IDF (Term Frequency-Inverse Document Frequency). The app also includes a user authentication system, sentiment analysis result storage in an SQLite database, and a real-time visualization of results. This report provides an in-depth look at the architecture of the application, the algorithmic approach, experimental results, and future directions for improvement.
